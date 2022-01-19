@@ -19,7 +19,7 @@ android {
         }
     }
     testOptions {
-        unitTests.returnDefaultValues = true // this prevents "not mocked" error
+        unitTests.returnDefaultValues = true // this prevents "not mocked" errors
     }
 }
 
