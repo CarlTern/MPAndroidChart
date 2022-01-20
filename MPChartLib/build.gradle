@@ -24,6 +24,7 @@ android {
 }
 
 dependencies {
+    testCompile "com.tunnelvisionlabs:antlr4:4.7.4"
     implementation 'androidx.annotation:annotation:1.0.0'
     testImplementation 'junit:junit:4.12'
 }
